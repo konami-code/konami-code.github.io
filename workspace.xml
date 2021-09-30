@@ -2,29 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54a1aba6-f7a1-49f2-9c0d-f91c33fc0cc0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/particles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particles.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/particles2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/js/particles.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/konami-code.github.io.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/particles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/particles.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/particles2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/js/particles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/particles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/particles.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/particles2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,14 +30,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\psyko\IdeaProjects\konami-code.github.io\.idea" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\psyko\IdeaProjects\konami-code.github.io" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1632962594769</updated>
-      <workItem from="1632962596035" duration="504000" />
+      <workItem from="1632962596035" duration="306000" />
     </task>
     <servers />
   </component>
